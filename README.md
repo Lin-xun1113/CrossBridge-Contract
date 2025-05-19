@@ -1,4 +1,4 @@
-# MAG跨链桥智能合约
+# Magnet-BSC 跨链桥智能合约
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

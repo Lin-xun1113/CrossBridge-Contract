@@ -4,6 +4,13 @@
 
 MAG跨链桥是为BSC链和Magnet POW链之间搭建的资产传输通道，实现这两条链上MAG代币的无缝流转。该项目基于Foundry框架开发。
 
+## 相关项目
+
+MAG跨链桥生态系统由多个组件组成，您可以访问以下相关项目：
+
+- **[跨链桥验证者节点](https://github.com/Lin-xun1113/Validator-service)** - 负责监控、验证和处理跨链交易
+- **[跨链桥前端界面](https://github.com/Lin-xun1113/CrossBridge-frontEnd/)** - 为用户和管理员提供的Web界面
+
 ## 项目概述
 
 MAG跨链桥由三个核心合约组成：
